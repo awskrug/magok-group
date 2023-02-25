@@ -1,7 +1,7 @@
 # AWSKRUG #magok 모임 
 
 # 모임 일시
-  - 매월 `마지막 주 수요일 혹은 목요일`에 공간대여가 가능한 곳 또는 온라인 미팅(https://chime.aws/awskrug-devops-group) 어디서든 진행합니다 
+  - 매월 `마지막 주 수요일 혹은 목요일`에 공간대여가 가능한 곳 또는 온라인 미팅(https://chime.aws/awskrug-meetups) 어디서든 진행합니다 
 
 # Meetups
 
