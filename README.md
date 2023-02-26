@@ -7,10 +7,16 @@
 
 ## 2023년
 <details>
-  <summary>1회 밋업 - <b>나의 경험담</b> 2월 16일</summary>
+  <summary>1회 밋업 - <b>나의 경험담</b> 2월 16일(목)</summary>
 
   ### `1회 밋업`
    * Career 성장!, 어떻게 AWS Hero 가 되었을까? - 송주영(AWS Container Hero)
    * 데브옵스 엔지니어가 되는 길, 저도 잘 모릅니다만 - 양승만(LG U+)
    - Meetup 등록: https://www.meetup.com/awskrug/events/291400117/
+</details>
+<details>
+  <summary>2회 밋업 3월 29일(목)</summary>
+
+  ### `2회 밋업`
+   
 </details>
